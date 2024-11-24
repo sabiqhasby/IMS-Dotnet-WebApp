@@ -1,0 +1,11 @@
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.deps.json
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfo.cs
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\refint\IMS.CoreBusiness.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.CoreBusiness\obj\Debug\net8.0\ref\IMS.CoreBusiness.dll

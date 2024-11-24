@@ -1,0 +1,17 @@
+Pre Conditions
+1. The user is on the inventories page.
+
+Post Conditions
+2. The user sees the inventories that meet the search condition
+
+Detailed Steps
+1. the user enters a few letters inthe search box.
+2. the user clicks on the View button
+
+Alternative Scenario A
+-Post Conditions
+2A. The user sees all the inventories
+
+Detailed Steps
+1A. The user makes the search box empty
+2A. The user clicks on the View Button

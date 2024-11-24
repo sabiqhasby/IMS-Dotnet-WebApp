@@ -1,0 +1,17 @@
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.deps.json
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plug.DF2EEC9E.Up2Date
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\refint\IMS.Plugins.InMemory.dll
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.pdb
+F:\CODE\C#\BlazorWeb\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\ref\IMS.Plugins.InMemory.dll
