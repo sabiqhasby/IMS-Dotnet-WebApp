@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj": {}
+    "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj": {}
   },
   "projects": {
-    "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
-        "packagesPath": "C:\\Users\\SABIQXS\\.nuget\\packages\\",
-        "outputPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\obj\\",
+        "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\HASBY-PC\\.nuget\\packages\\",
+        "outputPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABIQXS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HASBY-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -70,20 +70,20 @@
         }
       }
     },
-    "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+    "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectUniqueName": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
         "projectName": "IMS.Plugins.InMemory",
-        "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
-        "packagesPath": "C:\\Users\\SABIQXS\\.nuget\\packages\\",
-        "outputPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+        "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "packagesPath": "C:\\Users\\HASBY-PC\\.nuget\\packages\\",
+        "outputPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABIQXS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HASBY-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj"
+              "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -140,20 +140,20 @@
         }
       }
     },
-    "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj",
-        "packagesPath": "C:\\Users\\SABIQXS\\.nuget\\packages\\",
-        "outputPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\obj\\",
+        "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj",
+        "packagesPath": "C:\\Users\\HASBY-PC\\.nuget\\packages\\",
+        "outputPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABIQXS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HASBY-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -169,8 +169,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }
@@ -210,20 +210,20 @@
         }
       }
     },
-    "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj": {
+    "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectUniqueName": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
         "projectName": "IMS.WebApp",
-        "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
-        "packagesPath": "C:\\Users\\SABIQXS\\.nuget\\packages\\",
-        "outputPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\",
+        "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
+        "packagesPath": "C:\\Users\\HASBY-PC\\.nuget\\packages\\",
+        "outputPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABIQXS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HASBY-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -239,14 +239,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               },
-              "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-                "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
               },
-              "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj"
+              "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.UseCases\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }

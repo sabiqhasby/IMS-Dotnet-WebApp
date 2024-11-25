@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+UCQ9ga9HMVPVWPn8ZSbTKKpeHdKji/3BkIdneQNTug=",
+  "Hash": "zpxSlGAujs83V6xL3InclVnnmngF8Gt5+ZV/X4Izxiw=",
   "Source": "IMS.WebApp",
   "BasePath": "_content/IMS.WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IMS.WebApp\\wwwroot",
       "Source": "IMS.WebApp",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
       "BasePath": "_content/IMS.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
       "SourceId": "IMS.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "IMS.WebApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "+qmFlsT2+JJ0jjkdBSK1kI70ZaoFDIS/ueTNfkEPVgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css"
+      "OriginalItemSpec": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css"
     },
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
       "SourceId": "IMS.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "IMS.WebApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "+qmFlsT2+JJ0jjkdBSK1kI70ZaoFDIS/ueTNfkEPVgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css"
+      "OriginalItemSpec": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css"
     },
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
       "SourceId": "IMS.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "IMS.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "IMS.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
+      "Identity": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
       "SourceId": "IMS.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
+      "ContentRoot": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\",
       "BasePath": "_content/IMS.WebApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -167,7 +167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -204,7 +204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -227,8 +227,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -237,7 +237,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -245,11 +245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -259,7 +259,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -267,13 +267,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -282,7 +282,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -290,11 +290,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -304,13 +304,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -355,7 +355,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -392,7 +392,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -437,7 +437,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:07:28 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -474,7 +474,7 @@
     },
     {
       "Route": "IMS.WebApp.agb8ifxbht.bundle.scp.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:14:27 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,7 +519,7 @@
     },
     {
       "Route": "IMS.WebApp.agb8ifxbht.styles.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:14:27 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -564,7 +564,7 @@
     },
     {
       "Route": "IMS.WebApp.bundle.scp.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -585,7 +585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:14:27 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -601,7 +601,7 @@
     },
     {
       "Route": "IMS.WebApp.styles.css",
-      "AssetFile": "F:\\CODE\\C#\\BlazorWeb\\IMS\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
+      "AssetFile": "F:\\CODE\\C#\\DOTNETWEB\\IMS-Dotnet-WebApp\\IMS.WebApp\\IMS.WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IMS.WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -622,7 +622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 24 Nov 2024 12:14:27 GMT"
+          "Value": "Mon, 25 Nov 2024 02:25:45 GMT"
         },
         {
           "Name": "Cache-Control",
